@@ -1,0 +1,12 @@
+fieldset {
+    right: 3em;
+    width: inherit;
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    grid-area: 1 / 1;
+    border: solid 0.25rem transparent;
+    border-radius: min(2vw, 30px);
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    gap: 0;
+}
