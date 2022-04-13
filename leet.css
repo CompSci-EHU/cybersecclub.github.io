@@ -114,4 +114,9 @@ fieldset {
     #main {
         width: 100% !important;
     }
+    #left-bar hr {
+        width: 327px;
+        margin: auto;
+        padding: 0.5em 0;
+    }
 }
